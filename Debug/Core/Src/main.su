@@ -1,0 +1,15 @@
+../Core/Src/main.c:104:1:__io_putchar	16	static
+../Core/Src/main.c:118:17:calibrateMPU	96	static
+../Core/Src/main.c:144:6:getGyro	64	static
+../Core/Src/main.c:174:6:getAccel	64	static
+../Core/Src/main.c:219:5:main	48	static
+../Core/Src/main.c:293:6:SystemClock_Config	88	static
+../Core/Src/main.c:343:13:MX_ETH_Init	8	static
+../Core/Src/main.c:392:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:440:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:475:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:510:13:MX_USART6_UART_Init	8	static
+../Core/Src/main.c:545:13:MX_USB_OTG_FS_PCD_Init	8	static
+../Core/Src/main.c:580:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:638:6:MPU_Config	24	static
+../Core/Src/main.c:669:6:Error_Handler	4	static,ignoring_inline_asm
